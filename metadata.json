@@ -1,0 +1,6 @@
+{
+  "name": "ArchLab POC - AI Interior Studio",
+  "description": "AI Studio Chỉnh Sửa & Render Nội Thất Đỉnh Cao. Thiết kế đột phá với Workflow 3 bước chuyên sâu: Generate Concept, Layer Blend & AI Inpaint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
